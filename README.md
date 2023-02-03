@@ -1,1 +1,1 @@
-This is the README file for the alx-pre_course repository
+I have been able to change my readme file of Github.com without using the terminal
